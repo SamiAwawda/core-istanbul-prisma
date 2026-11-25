@@ -9,3 +9,7 @@ node_modules
 .claude
 .windsurf
 skills-lock.json
+.env.test
+tests/
+.env.test.example
+docs/superpowers
